@@ -1,5 +1,4 @@
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yerim's%20GitHub&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yerim's%20Github&fontSize=70&animation=scaleIn)
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
