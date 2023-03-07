@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @SunYerim
-- 👀 I’m interested in web-frontend ...
-
 <div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yerim's%20GitHub&fontSize=70&animation=scaleIn)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunYerim&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunYerim&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yaelim6)](https://solved.ac/yaelim6)
+
 </div>
 
 
