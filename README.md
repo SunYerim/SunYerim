@@ -9,7 +9,9 @@
 
   # 💪Skills
 ### Learnings
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white) ![React](https://img.shields.io/badge/React-40AEF0.svg?&style=for-the-badge&logo=React&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-0094F5.svg?&style=for-the-badge&logo=TypeScript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) 
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white) ![React](https://img.shields.io/badge/React-40AEF0.svg?&style=for-the-badge&logo=React&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) 
+  
+   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   
 ###  Techs that I've used at least once 
   
