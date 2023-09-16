@@ -6,8 +6,8 @@
 
 <h3 align="center">👩‍💻 Introduction 👩‍💻</h3>
   안녕하세요 <strong>"어떠한 일이 있어도 꺾이지 않는 마음! 느리더라도 일단 전진!"</strong> 이라는 모토로 개발자를 향해 달려가고있는 선예림 입니다.<br>
-  웹 개발에 관심이 많으며 여행 다니는 것을 좋아합니다 ✈🧳<br>
-  그러나 웹 개발에 국한하지 않고, 필요한 기술이 있으면 주저하지 않고 공부하며 경험하고 익히고 있습니다 !
+  웹 개발에 관심이 많으며 여행 다니는 것을 좋아합니다 🛫🧳<br>
+  그러나 웹 개발에 국한하지 않고, 필요한 기술이 있으면 주저하지 않고 공부하며 경험하고 익히고 있습니다.
   <br>
   <br>
 <a href="https://velog.io/@yaelim6"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
