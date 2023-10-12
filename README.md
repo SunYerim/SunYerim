@@ -1,8 +1,6 @@
 <div align="center">
 
-  ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=80&rotate=13&fontAlignY=25&desc=yerim's%20GitHub&descAlign=70.&descAlignY=44)
-  
-
+<hr>
 
 <h3 align="center">👩‍💻 Introduction 👩‍💻</h3>
   안녕하세요 <strong>"어떠한 일이 있어도 꺾이지 않는 마음! 느리더라도 일단 전진!"</strong> 이라는 모토로 개발자를 향해 달려가고 있습니다.<br>
