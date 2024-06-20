@@ -52,6 +52,12 @@
   <li>
     부경대학교 컴퓨터공학과 졸업 (2024.02)
   </li>
+  <li>
+    <a href="https://github.com/GDSC-PKNU-Official">GDSC PKNU</a> (2023.03 ~ 2023.12)
+  </li>
+  <li>
+    <a href="https://github.com/pknu-wap">부경대학교 프로그래밍 동아리 WAP</a> (2022.03 ~ 2023.06)
+  </li>
 </ul>
 
 </div>
