@@ -34,13 +34,11 @@
   </li>
   <li>
     <a href="https://github.com/SunjooAI">Sunjoo</a>
-   감정에 따라서 인공지능이 주류를 추천해드립니다! Sunjoo🥂(2024.05 ~)
+   감정에 따라서 인공지능이 주류를 추천해드립니다! Sunjoo🥂(2024.05 ~ 2024.07)
    <br />
    - <a href="https://github.com/pknu-wap/2023_1_WAT_BeJuRyu">Bejuryu</a> 프로젝트의 프론트엔드 코드를 사용
     <br />
-    - 새로운 기능 추가하여 백엔드 개발 진행
-    <br />
-    - MSA 구조를 적용 하였으며, Docker와 같은 기술을 사용하여 인프라를 구축하고 성능 및 안정성을 향상시키고자함
+    - 백엔드 개발 진행
   </li>
 </ul>
 
