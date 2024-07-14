@@ -8,7 +8,7 @@
 <li>여행을 다니는 것을 좋아하며, 새로운 것을 탐험하는 것을 좋아합니다.</li>
 
 <li>백엔드 개발자로서 나아가고 있지만, 다양한 기술을 탐구하고 그 경험을 통해 계속해서 성장하는 것이 목표입니다.</li>
-<li><a href="https://sunyerim.github.io/porfolio/">Portfolio</a> (수정중)</li>
+<li>포트폴리오 <a href="https://sunyerim.github.io/porfolio/">Portfolio</a> (수정중)</li>
 
 <h2>Contact</h2>
 <a href="https://velog.io/@yaelim6"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
