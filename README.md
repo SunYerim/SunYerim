@@ -14,6 +14,7 @@
 
 <h2>Contact</h2>
 <a href="https://velog.io/@yaelim6"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://sunyerim.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF5722?style=flat-square&logo=tistory&logoColor=white"/></a>
 <a href="mailto:syl1602@naver.com"><img src="https://img.shields.io/badge/Email-D0A9F5?style=flat-square&logo=Naver&logoColor=white&link=mailto:syl1602@naver.com"/></a>
 <a href="https://www.instagram.com/yerimeee._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunYerim&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yaelim6)](https://solved.ac/yaelim6/) -->
