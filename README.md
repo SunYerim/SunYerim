@@ -47,7 +47,7 @@
   <li>
     <a href="">Street Coding Fighter</a>
    코딩을 게임처럼 즐기는 실시간 참여형 학습 플랫폼 서비스 (2024.07.02 ~ 2024.08.16) <br /><br />
-   🏅 (2024.08.16)
+   🏅 SSAFY 11기 공통 프로젝트 우수상 수상 - 삼성전자 주식회사
   </li>
 </ul>
 
@@ -60,7 +60,7 @@
     부경대학교 컴퓨터공학과 졸업 (2024.02)
   </li>
   <li>
-    <a href="https://github.com/GDSC-PKNU-Official">GDSC PKNU</a> (2023.03 ~ 2023.12)
+    <a href="https://github.com/GDSC-PKNU-Official">GDSC PKNU</a> (2023.03 ~ )
   </li>
   <li>
     <a href="https://github.com/pknu-wap">부경대학교 프로그래밍 동아리 WAP</a> (2022.03 ~ 2023.06)
