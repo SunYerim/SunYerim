@@ -61,7 +61,7 @@
     부경대학교 컴퓨터공학과 졸업 (2024.02)
   </li>
   <li>
-    전국 연합동아리 UMC-5th 부경대학교 (2023.09 ~ 2024.02)
+    대학생 개발 연합동아리 UMC-5th 부경대학교 (2023.09 ~ 2024.02)
   </li>
   <li>
     <a href="https://github.com/GDSC-PKNU-Official">GDSC PKNU(Member)</a> (2023.03 ~ 2024.02)
