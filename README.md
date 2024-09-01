@@ -55,13 +55,19 @@
     SSAFY(삼성청년SW아카데미) 11기 JAVA전공 (2024.01~)
   </li>
   <li>
+    <a href="https://github.com/GDSC-PKNU-Official">GDSC PKNU(Senior)</a> (2024.03 ~)
+  </li>
+  <li>
     부경대학교 컴퓨터공학과 졸업 (2024.02)
   </li>
   <li>
-    <a href="https://github.com/GDSC-PKNU-Official">GDSC PKNU</a> (2023.03 ~ )
+    전국 연합동아리 UMC-5th 부경대학교 (2023.09 ~ 2024.02)
   </li>
   <li>
-    <a href="https://github.com/pknu-wap">부경대학교 프로그래밍 동아리 WAP</a> (2022.03 ~ 2023.06)
+    <a href="https://github.com/GDSC-PKNU-Official">GDSC PKNU(Member)</a> (2023.03 ~ 2024.02)
+  </li>
+  <li>
+    <a href="https://github.com/pknu-wap">부경대학교 중앙 프로그래밍 동아리 WAP</a> (2022.03 ~ 2023.06)
   </li>
 </ul>
 
