@@ -34,10 +34,6 @@
    - <a href="https://github.com/pknu-wap/2023_1_WAT_BeJuRyu">Bejuryu</a> 프로젝트의 프론트엔드 코드를 사용
   </li>
   <li>
-    <a href="https://github.com/DaftenP/supreme-guide">YJ Trip</a>
-   Kakao map, OPEN AI를 활용한 통합 여행 정보 제공 사이트 YJTrip 🛫 (2024.05)
-  </li>
-  <li>
     <a href="https://github.com/chaesc1/WAAWAAWAA">WAA</a>
    OPEN AI를 활용한 영유아 학습 어플리케이션 WAA (2023.06 ~ 2023.11) <br /><br />
    🏅 부경대학교 컴퓨터.인공지능공학부 캡스톤디자인 경진대회 동상 수상 (2023.11.22)
