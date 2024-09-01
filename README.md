@@ -23,9 +23,19 @@
 <h2>Projects</h2>
 <ul>
   <li>
-    <a href="https://github.com/pknu-wap/2023_1_WAT_BeJuRyu">Bejuryu</a> 
-    감정에 따라서 인공지능이 주류를 추천해드립니다! BeJuRyu🍻 (2023.03 ~ 2023.06)
+    <a href="">Street Coding Fighter</a>
+   코딩을 게임처럼 즐기는 실시간 참여형 학습 플랫폼 서비스 (2024.07.02 ~ 2024.08.16) <br /><br />
+   🏅 SSAFY 11기 공통 프로젝트 우수상 수상 - 삼성전자 주식회사
+  </li>
+  <li>
+    <a href="https://github.com/SunjooAI">Sunjoo</a>
+   감정에 따라서 인공지능이 주류를 추천해드립니다! Sunjoo🥂(2024.05 ~ 2024.07)
    <br />
+   - <a href="https://github.com/pknu-wap/2023_1_WAT_BeJuRyu">Bejuryu</a> 프로젝트의 프론트엔드 코드를 사용
+  </li>
+  <li>
+    <a href="https://github.com/DaftenP/supreme-guide">YJ Trip</a>
+   Kakao map, OPEN AI를 활용한 통합 여행 정보 제공 사이트 YJTrip 🛫 (2024.05)
   </li>
   <li>
     <a href="https://github.com/chaesc1/WAAWAAWAA">WAA</a>
@@ -33,22 +43,10 @@
    🏅 부경대학교 컴퓨터.인공지능공학부 캡스톤디자인 경진대회 동상 수상 (2023.11.22)
   </li>
   <li>
-    <a href="https://github.com/DaftenP/supreme-guide">YJ Trip</a>
-   Kakao map, OPEN AI를 활용한 통합 여행 정보 제공 사이트 YJTrip 🛫 (2024.05)
-  </li>
-  <li>
-    <a href="https://github.com/SunjooAI">Sunjoo</a>
-   감정에 따라서 인공지능이 주류를 추천해드립니다! Sunjoo🥂(2024.05 ~ 2024.07)
+    <a href="https://github.com/pknu-wap/2023_1_WAT_BeJuRyu">Bejuryu</a> 
+    감정에 따라서 인공지능이 주류를 추천해드립니다! BeJuRyu🍻 (2023.03 ~ 2023.06)
    <br />
-   - <a href="https://github.com/pknu-wap/2023_1_WAT_BeJuRyu">Bejuryu</a> 프로젝트의 프론트엔드 코드를 사용
-    <br />
-    - 백엔드 개발 진행
-  </li>
-  <li>
-    <a href="">Street Coding Fighter</a>
-   코딩을 게임처럼 즐기는 실시간 참여형 학습 플랫폼 서비스 (2024.07.02 ~ 2024.08.16) <br /><br />
-   🏅 SSAFY 11기 공통 프로젝트 우수상 수상 - 삼성전자 주식회사
-  </li>
+  </li> 
 </ul>
 
 <h2>Experiences</h2>
