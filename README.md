@@ -23,7 +23,7 @@
 <h2>Projects</h2>
 <ul>
   <li>
-    <a href="">Street Coding Fighter</a>
+    <a href="https://github.com/SunYerim/Street-Coding-Fighter">Street Coding Fighter</a>
    코딩을 게임처럼 즐기는 실시간 참여형 학습 플랫폼 서비스 (2024.07.02 ~ 2024.08.16) <br /><br />
    🏅 SSAFY 11기 공통 프로젝트 우수상 수상 - 삼성전자 주식회사
   </li>
