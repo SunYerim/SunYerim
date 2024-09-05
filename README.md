@@ -13,8 +13,8 @@
 <a href="https://sunyerim.github.io/porfolio/">Sunyerim's Portfolio</a>
 
 <h2>Contact</h2>
-<a href="https://velog.io/@yaelim6"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://sunyerim.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF5722?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://velog.io/@yaelim6"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="mailto:syl1602@naver.com"><img src="https://img.shields.io/badge/Email-D0A9F5?style=flat-square&logo=Naver&logoColor=white&link=mailto:syl1602@naver.com"/></a>
 <a href="https://www.instagram.com/yerimeee._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunYerim&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yaelim6)](https://solved.ac/yaelim6/) -->
@@ -31,7 +31,7 @@
 
 | **프로젝트명** | **설명** | **기간** | **성과 및 특이점** | **담당 역할** | **기관/팀** |
 |:--------------:|:--------:|:--------:|:-----------------:|:-------------:|:-----------:|
-| [Street Coding Fighter](https://github.com/SunYerim/Street-Coding-Fighter) | 코딩을 게임처럼 즐기는 실시간 참여형 학습 플랫폼 서비스 | 2024.07.02 ~ 2024.08.16 | 🏅 SSAFY 11기 **공통 프로젝트 우수상 수상** <br>- 삼성전자 주식회사 (2024.08.16) <li>본선 진출 후, 500명 청중을 대상으로 발표 진행</li>|Backend, <br> 최종 발표자| 삼성청년SW아카데미(SSAFY) |
+| [Street Coding Fighter](https://github.com/SunYerim/Street-Coding-Fighter) | 코딩을 게임처럼 즐기는 실시간 참여형 학습 플랫폼 서비스 | 2024.07.02 ~ 2024.08.16 | 🏅 SSAFY 11기 **공통 프로젝트 우수상 수상** <br>- 삼성전자 주식회사 (2024.08.16) <li>본선 진출 후, 500명 청중을 대상으로 발표 진행</li><li>[프로젝트 회고](https://sunyerim.tistory.com/5)</li>|Backend, <br> 최종 발표자| 삼성청년SW아카데미(SSAFY) |
 | [Sunjoo](https://github.com/SunjooAI) | 감정에 따라 인공지능이 주류를 추천해주는 서비스 | 2024.05.28 ~ 2024.07.07 | <li> **Bejuryu 프로젝트의 프론트엔드 코드 사용**하여 배포환경 구축 및 Backend 개발</li> | 팀장, Infra, Backend | 팀프로젝트<br>(개인적으로 진행) |
 | [YJ Trip](https://github.com/DaftenP/supreme-guide) | Kakao map, OPEN AI를 활용한 통합 여행 정보 제공 서비스 | 2024.05 | - | Frontend,<br>Backend,<br>최종 발표자| 삼성청년SW아카데미(SSAFY) |
 | [WAA](https://github.com/chaesc1/WAAWAAWAA) | OPEN AI를 활용한 영유아 학습 및 상담 어플리케이션 | 2023.06 ~ 2023.11 | 🏅 부경대학교 캡스톤디자인 **경진대회 동상 수상** <br>- 부경대학교 컴퓨터.인공지능공학부 (2023.11.22) | Frontend | 부경대학교 컴퓨터공학과<br>(졸업작품) |
