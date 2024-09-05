@@ -34,8 +34,8 @@
 | [Street Coding Fighter](https://github.com/SunYerim/Street-Coding-Fighter) | 코딩을 게임처럼 즐기는 실시간 참여형 학습 플랫폼 서비스 | 2024.07.02 ~ 2024.08.16 | 🏅 SSAFY 11기 **공통 프로젝트 우수상 수상** <br>- 삼성전자 주식회사 (2024.08.16) <li>본선 진출 후, 500명 청중을 대상으로 발표 진행</li><li>[프로젝트 회고](https://sunyerim.tistory.com/5)</li>|Backend, <br> 최종 발표자| 삼성청년SW아카데미(SSAFY) |
 | [Sunjoo](https://github.com/SunjooAI) | 감정에 따라 인공지능이 주류를 추천해주는 서비스 | 2024.05.28 ~ 2024.07.07 | <li> **Bejuryu 프로젝트의 프론트엔드 코드 사용**하여 배포환경 구축 및 Backend 개발</li> | 팀장, Infra, Backend | 팀프로젝트<br>(개인적으로 진행) |
 | [YJ Trip](https://github.com/DaftenP/supreme-guide) | Kakao map, OPEN AI를 활용한 통합 여행 정보 제공 서비스 | 2024.05.16 ~ 2024.05.23 | - | Frontend,<br>Backend,<br>최종 발표자| 삼성청년SW아카데미(SSAFY) |
-| [WAA](https://github.com/chaesc1/WAAWAAWAA) | OPEN AI를 활용한 영유아 학습 및 상담 어플리케이션 | 2023.06 ~ 2023.11 | 🏅 부경대학교 캡스톤디자인 **경진대회 동상 수상** <br>- 부경대학교 컴퓨터.인공지능공학부 (2023.11.22) | Frontend | 부경대학교 컴퓨터공학과<br>(졸업작품) |
-| [Bejuryu](https://github.com/pknu-wap/2023_1_WAT_BeJuRyu) | 감정에 따라 인공지능이 주류를 추천해주는 서비스 | 2023.03 ~ 2023.06 | <li>웹 프론트엔드 개발 전담</li> | Frontend,<br>최종 발표자 | 부경대학교 중앙 프로그래밍 동아리 WAP |
+| [WAA](https://github.com/chaesc1/WAAWAAWAA) | OPEN AI를 활용한 영유아 학습 및 상담 어플리케이션 | 2023.06 ~ 2023.11.21 | 🏅 부경대학교 캡스톤디자인 **경진대회 동상 수상** <br>- 부경대학교 컴퓨터.인공지능공학부 (2023.11.22) | Frontend | 부경대학교 컴퓨터공학과<br>(졸업작품) |
+| [Bejuryu](https://github.com/pknu-wap/2023_1_WAT_BeJuRyu) | 감정에 따라 인공지능이 주류를 추천해주는 서비스 | 2023.03.16 ~ 2023.06.07 | <li>웹 프론트엔드 개발 전담</li> | Frontend,<br>최종 발표자 | 부경대학교 중앙 프로그래밍 동아리 WAP |
 
 
 <h2>Experiences</h2>
