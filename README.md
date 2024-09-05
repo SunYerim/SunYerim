@@ -20,55 +20,38 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunYerim&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yaelim6)](https://solved.ac/yaelim6/) -->
 
 
+## Education
+
+| **학위** | **기관** | **기간** |
+|:----------:|:----------:|:----------:|
+| 학사 졸업 | 부경대학교 컴퓨터공학과 | 2022.03 ~ 2024.02 |
+| 학사 중퇴 | 창원대학교 정보통신공학과 | 2020.03 ~ 2022.02 |
+
 <h2>Projects</h2>
-<ul>
-  <li>
-    <a href="https://github.com/SunYerim/Street-Coding-Fighter">Street Coding Fighter</a>
-   코딩을 게임처럼 즐기는 실시간 참여형 학습 플랫폼 서비스 (2024.07.02 ~ 2024.08.16) <br /><br />
-   🏅 SSAFY 11기 공통 프로젝트 우수상 수상 - 삼성전자 주식회사
-  </li>
-  <li>
-    <a href="https://github.com/SunjooAI">Sunjoo</a>
-   감정에 따라서 인공지능이 주류를 추천해드립니다! Sunjoo🥂(2024.05 ~ 2024.07)
-   <br />
-   - <a href="https://github.com/pknu-wap/2023_1_WAT_BeJuRyu">Bejuryu</a> 프로젝트의 프론트엔드 코드를 사용
-  </li>
-  <li>
-    <a href="https://github.com/chaesc1/WAAWAAWAA">WAA</a>
-   OPEN AI를 활용한 영유아 학습 어플리케이션 WAA (2023.06 ~ 2023.11) <br /><br />
-   🏅 부경대학교 컴퓨터.인공지능공학부 캡스톤디자인 경진대회 동상 수상 (2023.11.22)
-  </li>
-  <li>
-    <a href="https://github.com/pknu-wap/2023_1_WAT_BeJuRyu">Bejuryu</a> 
-    감정에 따라서 인공지능이 주류를 추천해드립니다! BeJuRyu🍻 (2023.03 ~ 2023.06)
-   <br />
-  </li> 
-</ul>
+
+| **프로젝트명** | **설명** | **기간** | **성과 및 특이점** | **담당 역할** | **기관/팀** |
+|:--------------:|:--------:|:--------:|:-----------------:|:-------------:|:-----------:|
+| [Street Coding Fighter](https://github.com/SunYerim/Street-Coding-Fighter) | 코딩을 게임처럼 즐기는 실시간 참여형 학습 플랫폼 서비스 | 2024.07.02 ~ 2024.08.16 | 🏅 SSAFY 11기 공통 프로젝트 우수상 수상 <br>- 삼성전자 주식회사 (2024.08.16) <li>본선 진출 후, 500명 청중을 대상으로 발표 진행</li>|Backend, <br> 최종 발표자| 삼성청년SW아카데미(SSAFY) |
+| [Sunjoo](https://github.com/SunjooAI) | 감정에 따라 인공지능이 주류를 추천해주는 서비스 | 2024.05 ~ 2024.07 | <li> Bejuryu 프로젝트의 프론트엔드 코드 사용</li> <li>MSA 구조를 적용 하였으며, Docker와 같은 기술을 사용하여 인프라를 구축하고 성능 및 안정성을 향상시키고자함</li> | Infra, Backend | 개인프로젝트 |
+| [YJ Trip](https://github.com/DaftenP/supreme-guide) | Kakao map, OPEN AI를 활용한 통합 여행 정보 제공 서비스 | 2024.05 | - | Frontend,<br>Backend,<br>최종 발표자| 삼성청년SW아카데미(SSAFY) |
+| [WAA](https://github.com/chaesc1/WAAWAAWAA) | OPEN AI를 활용한 영유아 학습 및 상담 어플리케이션 | 2023.06 ~ 2023.11 | 🏅 부경대학교 캡스톤디자인 경진대회 동상 수상 <br>- 부경대학교 컴퓨터.인공지능공학부 (2023.11.22) | Frontend | 부경대학교<br>(졸업작품) |
+| [Bejuryu](https://github.com/pknu-wap/2023_1_WAT_BeJuRyu) | 감정에 따라 인공지능이 주류를 추천해주는 서비스 | 2023.03 ~ 2023.06 | <li>웹 프론트엔드 개발 전담</li> | Frontend,<br>최종 발표자 | 부경대학교 중앙 프로그래밍 동아리 WAP |
+
 
 <h2>Experiences</h2>
-<ul>
-  <li>
-    SSAFY(삼성청년SW아카데미) 11기 JAVA전공 (2024.01~)
-  </li>
-  <li>
-    <a href="https://github.com/GDSC-PKNU-Official">GDSC PKNU(Senior)</a> (2024.03 ~)
-  </li>
-  <li>
-    부경대학교 컴퓨터공학과 졸업 (2024.02)
-  </li>
-  <li>
-    대학생 개발 연합동아리 UMC-5th 부경대학교_Spring Boot 파트(2023.09 ~ 2024.02)
-  </li>
-  <li>
-    <a href="https://github.com/GDSC-PKNU-Official">GDSC PKNU(Member)</a> (2023.03 ~ 2024.02)
-  </li>
-  <li>
-    <a href="https://github.com/pknu-wap">부경대학교 중앙 프로그래밍 동아리 WAP</a> (2022.03 ~ 2023.06)
-  </li>
-</ul>
+
+| **경험** | **설명** | **기간** | **활동 내역** |
+|:--------:|:--------:|:--------:|:-------------:|
+| SSAFY 11기 | 삼성청년SW아카데미(SSAFY) JAVA 전공트랙 교육생 | 2024.01 ~ 2024.12 | <li>JAVA전공트랙 교육 이수 </li> <li>알고리즘 스터디 및 CS 스터디장</li> <li>총 4번의 프로젝트 개발</li> |
+| [GDSC PKNU (Senior)](https://github.com/GDSC-PKNU-Official) | Google Developer Student Club 부경대학교 Senior | 2024.03 ~ 현재 | - |
+| 대학생 개발 연합동아리 UMC-5th | 부경대학교 Spring Boot 파트로 활동 | 2023.09 ~ 2024.02 | <li>Spring Boot 트랙 스터디</li><li>부경대학교 주관 모베디 헤커톤 참여</li> |
+| [GDSC PKNU (Member)](https://github.com/GDSC-PKNU-Official) | Google Developer Student Club 부경대학교 Member | 2023.03 ~ 2024.02 | <li>"모두의 네트워크" 스터디 참여</li><li>"네트워크, 하향식 접근" 스터디 참여</li> |
+| [부경대학교 중앙 프로그래밍 동아리 WAP](https://github.com/pknu-wap) | 부경대학교에서 중앙 프로그래밍 동아리 활동 | 2022.03 ~ 2023.06 | <li>2번의 프로젝트 진행(웹 프론트엔드 개발)</li><li>Frontend 스터디 2회 참여</li><li>알고리즘 스터디장</li> |
+
 
 </div>
 
+--- 
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yaelim6)](https://solved.ac/yaelim6/)
