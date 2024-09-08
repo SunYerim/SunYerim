@@ -42,10 +42,10 @@
 
 | **경험** | **설명** | **기간** | **활동 내역** |
 |:--------:|:--------:|:--------:|:-------------:|
-| SSAFY 11기 | 삼성청년SW아카데미(SSAFY) JAVA 전공트랙 교육생 | 2024.01 ~ 2024.12 | <li>JAVA전공트랙 교육 이수 </li> <li>알고리즘 스터디 및 CS 스터디장</li><li>[모던 자바](https://www.notion.so/e92a3ff760ab421385f7733e4f109221) 스터디 참여</li> <li>총 4번의 프로젝트 개발</li> |
+| SSAFY 11기 | 삼성청년SW아카데미(SSAFY) JAVA 전공트랙 교육생 | 2024.01 ~ 2024.12 | <li>JAVA전공트랙 교육 이수 </li> <li>알고리즘 스터디 및 CS 스터디장</li><li>[모던 자바](https://right-airbus-41b.notion.site/e92a3ff760ab421385f7733e4f109221?pvs=4) 스터디 참여</li> <li>총 4번의 프로젝트 개발</li> |
 | [GDSC PKNU (Senior)](https://github.com/GDSC-PKNU-Official) | Google Developer Student Club 부경대학교 Senior | 2024.03 ~ 현재 | - |
 | 대학생 개발 연합동아리 UMC-5th | 부경대학교 Spring Boot 파트로 활동 | 2023.09 ~ 2024.02 | <li>Spring Boot 트랙 스터디</li><li>부경대학교 주관 모베디 헤커톤 참여</li> |
-| [GDSC PKNU (Member)](https://github.com/GDSC-PKNU-Official) | Google Developer Student Club 부경대학교 Member | 2023.03 ~ 2024.02 | <li>["모두의 네트워크"](https://www.notion.so/GDSC-b9245289e5444d8293f4c73638daa5dd) 스터디 참여</li><li>["네트워크, 하향식 접근"](https://www.notion.so/GDSC-045ecce6f37f4477b9a47be18d691b58) 스터디 참여</li> |
+| [GDSC PKNU (Member)](https://github.com/GDSC-PKNU-Official) | Google Developer Student Club 부경대학교 Member | 2023.03 ~ 2024.02 | <li>["모두의 네트워크"](https://right-airbus-41b.notion.site/GDSC-b9245289e5444d8293f4c73638daa5dd?pvs=4) 스터디 참여</li><li>["네트워크, 하향식 접근"](https://right-airbus-41b.notion.site/GDSC-045ecce6f37f4477b9a47be18d691b58?pvs=4) 스터디 참여</li> |
 | [부경대학교 중앙 프로그래밍 동아리 WAP](https://github.com/pknu-wap) | 부경대학교에서 중앙 프로그래밍 동아리 활동 | 2022.03 ~ 2023.06 | <li>2번의 프로젝트 진행(웹 프론트엔드 개발)</li><li>Frontend 스터디 2회 참여</li><li>알고리즘 스터디장</li> |
 
 
