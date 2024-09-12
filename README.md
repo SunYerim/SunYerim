@@ -42,11 +42,10 @@
 
 | **경험** | **설명** | **기간** | **활동 내역** |
 |:--------:|:--------:|:--------:|:-------------:|
-| SSAFY 11기 | 삼성청년SW아카데미(SSAFY) JAVA 전공트랙 교육생 | 2024.01 ~ 2024.12 | <li>JAVA전공트랙 교육 이수 </li> <li>[알고리즘 스터디](https://github.com/SunYerim/ssafyAlgorithmStudy) 및 [CS 스터디](https://github.com/SunYerim/CSStudy)장</li><li>[모던 자바](https://right-airbus-41b.notion.site/e92a3ff760ab421385f7733e4f109221?pvs=4) 스터디 참여</li> <li>총 4번의 프로젝트 개발</li> |
-| [GDSC PKNU (Senior)](https://github.com/GDSC-PKNU-Official) | Google Developer Student Club 부경대학교 Senior | 2024.03 ~ 현재 | - |
-| 대학생 개발 연합동아리 UMC-5th | 부경대학교 Spring Boot 파트로 활동 | 2023.09 ~ 2024.02 | <li>Spring Boot 트랙 스터디</li><li>부경대학교 주관 모베디 헤커톤 참여</li> |
-| [GDSC PKNU (Member)](https://github.com/GDSC-PKNU-Official) | Google Developer Student Club 부경대학교 Member | 2023.03 ~ 2024.02 | <li>["모두의 네트워크"](https://right-airbus-41b.notion.site/GDSC-b9245289e5444d8293f4c73638daa5dd?pvs=4) 스터디 참여</li><li>["네트워크, 하향식 접근"](https://right-airbus-41b.notion.site/GDSC-045ecce6f37f4477b9a47be18d691b58?pvs=4) 스터디 참여</li> |
-| [부경대학교 중앙 프로그래밍 동아리 WAP](https://github.com/pknu-wap) | 부경대학교에서 중앙 프로그래밍 동아리 활동 | 2022.03 ~ 2023.06 | <li>2번의 프로젝트 진행(웹 프론트엔드 개발)</li><li>Frontend 스터디 2회 참여</li><li>알고리즘 스터디장</li> |
+| SSAFY 11기 | 삼성청년SW아카데미(SSAFY) JAVA 전공트랙 교육생 | 2024.01 ~ 2024.12 | <li>JAVA전공트랙 교육 이수 </li> <li>[알고리즘 스터디](https://github.com/SunYerim/ssafyAlgorithmStudy)장 <sub>2024.01 - 2024.08</sub></li><li>[CS 스터디](https://github.com/SunYerim/CSStudy)장<sub>2024.07 -</sub></li><li>[모던 자바](https://right-airbus-41b.notion.site/e92a3ff760ab421385f7733e4f109221?pvs=4) 스터디<sub>2024.02 - 2024.05</sub></li> <li>총 4번의 프로젝트 개발</li> |
+| 대학생 개발 연합동아리 UMC-5th | 부경대학교 Spring Boot 파트로 활동 | 2023.09 ~ 2024.02 | <li>Spring Boot 트랙 스터디</li><li>부경대학교 주관 모베디 헤커톤 참여<sub>2023.11.24-25</sub></li> |
+| [GDSC PKNU](https://github.com/GDSC-PKNU-Official) | Google Developer Student Club 부경대학교 | 2023.03 ~ 현재 | <li>["모두의 네트워크"](https://right-airbus-41b.notion.site/GDSC-b9245289e5444d8293f4c73638daa5dd?pvs=4) 스터디<sub>2023.07 - 2023.08</sub></li><li>["네트워크, 하향식 접근"](https://right-airbus-41b.notion.site/GDSC-045ecce6f37f4477b9a47be18d691b58?pvs=4) 스터디 <sub>2023.09 - 2023.12</sub></li><li>[알고리드미](https://github.com/AlgoLeadMe) 스터디 <sub>2024.03 - 2024.05</sub></li><li>출/퇴근 지식공유 소모임<sub> 2024.09 -</sub></li>|
+| [부경대학교 중앙 프로그래밍 동아리 WAP](https://github.com/pknu-wap) | 부경대학교에서 중앙 프로그래밍 동아리 활동 | 2022.03 ~ 2023.06 | <li>[Bejuryu](https://github.com/pknu-wap/2023_1_WAT_BeJuRyu) 프로젝트(웹 프론트엔드 개발)<sub>2023.03 - 2023.06</sub></li><li>Coding Timer(웹 프론트엔드 개발)<sub>2022.09 - 2022.12</sub></li><li>Frontend 스터디 2회 참여</li><li>알고리즘 스터디장</li> |
 
 
 </div>
