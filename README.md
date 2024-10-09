@@ -9,6 +9,9 @@
 
 <li>백엔드 개발자로서 나아가고 있지만, 다양한 기술을 탐구하고 그 경험을 통해 계속해서 성장하는 것이 목표입니다.</li>
 
+<h2>Resume</h2>
+<a href="https://pinto-bakery-023.notion.site/1093b8f9991f80bb8b2dc6ee8c81f418">노션 이력서</a>  <!-- 이 부분에 이력서 링크 추가 -->
+
 <h2>Portfolio</h2>
 <a href="https://sunyerim.github.io/porfolio/">Sunyerim's Portfolio</a>
 
