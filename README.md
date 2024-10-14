@@ -37,7 +37,6 @@
 | [YJ Trip](https://github.com/DaftenP/supreme-guide) | Kakao map, OPEN AI를 활용한 통합 여행 정보 제공 서비스 | 2024.05.16 ~ 2024.05.23 | - | Frontend,<br>Backend,<br>최종 발표자| 삼성청년SW아카데미(SSAFY) |
 | [WAA](https://github.com/chaesc1/WAAWAAWAA) | OPEN AI를 활용한 영유아 학습 및 상담 어플리케이션 | 2023.06 ~ 2023.11.21 | 🏅 부경대학교 캡스톤디자인 **경진대회 동상 수상** <br>- 부경대학교 컴퓨터.인공지능공학부 (2023.11.22) | Frontend | 부경대학교 컴퓨터공학과<br>(졸업작품) |
 | [Bejuryu](https://github.com/pknu-wap/2023_1_WAT_BeJuRyu) | 감정에 따라 인공지능이 주류를 추천해주는 서비스 | 2023.03.16 ~ 2023.06.07 | <li>웹 프론트엔드 개발 전담</li><li>[트러블 슈팅](https://velog.io/@yaelim6/%EA%B0%9C%EB%B0%9C%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%82%BD%EC%A7%88%EC%9D%98-%EC%97%AC%EC%A0%95)</li> | Frontend,<br>최종 발표자 | 부경대학교 중앙 프로그래밍 동아리 WAP |
-| [Coding Timer](https://github.com/22-2-Wap) | 개발자를 위한 공부 커뮤니티 사이트 | 2022.09 ~ 2022.12 | <li>웹 프론트엔드 개발</li><li>첫 팀 프로젝트</li> | Frontend,<br>시작 발표자 | 부경대학교 중앙 프로그래밍 동아리 WAP |
 
 
 
