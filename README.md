@@ -10,7 +10,7 @@
 <li>백엔드 개발자로서 나아가고 있지만, 다양한 기술을 탐구하고 그 경험을 통해 계속해서 성장하는 것이 목표입니다.</li>
 
 <h2>Portfolio</h2>
-<a href="https://sunyerim.github.io/porfolio/">Sunyerim's Portfolio</a>
+
 
 <h2>Contact</h2>
 <a href="https://sunyerim.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF5722?style=flat-square&logo=tistory&logoColor=white"/></a>
