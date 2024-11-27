@@ -11,6 +11,7 @@
 
 <h2>Portfolio</h2>
 
+[선예림 포트폴리오](https://right-airbus-41b.notion.site/11eb7f99114580cf9210c0d3d7ac62a9?pvs=4)
 
 <h2>Contact</h2>
 <a href="https://sunyerim.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF5722?style=flat-square&logo=tistory&logoColor=white"/></a>
