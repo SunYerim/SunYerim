@@ -9,8 +9,9 @@
 
 <li>백엔드 개발자로서 나아가고 있지만, 다양한 기술을 탐구하고 그 경험을 통해 계속해서 성장하는 것이 목표입니다.</li>
 
-<h2>Portfolio</h2>
+<h2>이력서</h2>
 
+[선예림 이력서](https://right-airbus-41b.notion.site/11eb7f99114580cf9210c0d3d7ac62a9?pvs=4)
 
 
 <h2>Contact</h2>
